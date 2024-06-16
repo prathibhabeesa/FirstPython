@@ -1,0 +1,10 @@
+2024-06-16 21:52:46 - DEBUG - This is a debug message
+2024-06-16 21:52:46 - INFO - This is an info message
+2024-06-16 21:52:46 - WARNING - This is a warning message
+2024-06-16 21:52:46 - ERROR - This is an error message
+2024-06-16 21:52:46 - CRITICAL - This is a critical message
+2024-06-16 21:52:49 - DEBUG - This is a debug message
+2024-06-16 21:52:49 - INFO - This is an info message
+2024-06-16 21:52:49 - WARNING - This is a warning message
+2024-06-16 21:52:49 - ERROR - This is an error message
+2024-06-16 21:52:49 - CRITICAL - This is a critical message

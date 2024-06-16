@@ -1,0 +1,2 @@
+[console_scripts]
+run_logger = logging_module.log_script:main
