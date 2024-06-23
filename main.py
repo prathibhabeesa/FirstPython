@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 
 # Sample log messages
-logging.debug('This is a debug message')
+logging.debug('This is a debug message1')
 logging.info('This is an info message')
 logging.warning('This is a warning message')
 logging.error('This is an error message')
